@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32982" started-at="2018-05-02T14:58:20Z" finished-at="2018-05-02T14:58:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32982" started-at="2018-05-02T14:58:20Z" finished-at="2018-05-02T14:58:53Z">
+      <class name="com.amzon.testFramework.qa.testCases.HomePage_test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amzon.testFramework.qa.testCases.HomePage_test@29774679]" name="setup" is-config="true" duration-ms="16813" started-at="2018-05-02T20:28:20Z" finished-at="2018-05-02T20:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="HomePage_searchTest()[pri:1, instance:com.amzon.testFramework.qa.testCases.HomePage_test@29774679]" name="HomePage_searchTest" duration-ms="42" started-at="2018-05-02T20:28:37Z" finished-at="2018-05-02T20:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage_searchTest -->
+        <test-method status="PASS" signature="teardn()[pri:0, instance:com.amzon.testFramework.qa.testCases.HomePage_test@29774679]" name="teardn" is-config="true" duration-ms="727" started-at="2018-05-02T20:28:37Z" finished-at="2018-05-02T20:28:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardn -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amzon.testFramework.qa.testCases.HomePage_test@29774679]" name="setup" is-config="true" duration-ms="5480" started-at="2018-05-02T20:28:38Z" finished-at="2018-05-02T20:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="HomePagelogoTest()[pri:2, instance:com.amzon.testFramework.qa.testCases.HomePage_test@29774679]" name="HomePagelogoTest" duration-ms="104" started-at="2018-05-02T20:28:43Z" finished-at="2018-05-02T20:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePagelogoTest -->
+        <test-method status="PASS" signature="teardn()[pri:0, instance:com.amzon.testFramework.qa.testCases.HomePage_test@29774679]" name="teardn" is-config="true" duration-ms="659" started-at="2018-05-02T20:28:43Z" finished-at="2018-05-02T20:28:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardn -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amzon.testFramework.qa.testCases.HomePage_test@29774679]" name="setup" is-config="true" duration-ms="5743" started-at="2018-05-02T20:28:44Z" finished-at="2018-05-02T20:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SearchTest()[pri:3, instance:com.amzon.testFramework.qa.testCases.HomePage_test@29774679]" name="SearchTest" duration-ms="2585" started-at="2018-05-02T20:28:50Z" finished-at="2018-05-02T20:28:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="teardn()[pri:0, instance:com.amzon.testFramework.qa.testCases.HomePage_test@29774679]" name="teardn" is-config="true" duration-ms="671" started-at="2018-05-02T20:28:52Z" finished-at="2018-05-02T20:28:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardn -->
+      </class> <!-- com.amzon.testFramework.qa.testCases.HomePage_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
